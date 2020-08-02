@@ -44,20 +44,6 @@
             "ramp": 1
         },
         {
-            "id": 6,
-            "timestamp": "2020-07-27_14:30:20",
-            "duration": 5000,
-            "express": false,
-            "ramp": 2
-        },
-        {
-            "id": 7,
-            "timestamp": "2020-07-27_14:50:20",
-            "duration": 3600,
-            "express": false,
-            "ramp": 1
-        },
-        {
             "id": 8,
             "timestamp": "2020-07-27_18:45:20",
             "duration": 7200,
