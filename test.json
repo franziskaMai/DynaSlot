@@ -5,61 +5,71 @@
             "id": 1,
             "timestamp": "2020-07-27_10:30:20",
             "duration": 3600,
-            "express": true
+            "express": true,
+            "ramp": 0
         },
         {
             "id": 0,
             "timestamp": "2020-07-27_10:00:20",
             "duration": 4509,
-            "express": false
+            "express": false,
+            "ramp": 1
         },
         {
             "id": 2,
             "timestamp": "2020-07-27_11:00:20",
             "duration": 7200,
-            "express": false
+            "express": false,
+            "ramp": 2
         },
         {
             "id": 3,
             "timestamp": "2020-07-27_10:45:20",
             "duration": 5400,
-            "express": false
+            "express": false,
+            "ramp": 0
         },
         {
             "id": 4,
             "timestamp": "2020-07-27_14:00:20",
             "duration": 2880,
-            "express": false
+            "express": false,
+            "ramp": 0
         },
         {
             "id": 5,
             "timestamp": "2020-07-27_14:45:20",
             "duration": 8280,
-            "express": false
+            "express": false,
+            "ramp": 1
         },
         {
             "id": 6,
             "timestamp": "2020-07-27_14:30:20",
             "duration": 5000,
-            "express": false
+            "express": false,
+            "ramp": 2
         },
         {
             "id": 7,
             "timestamp": "2020-07-27_14:50:20",
             "duration": 3600,
-            "express": false
+            "express": false,
+            "ramp": 1
         },
         {
             "id": 8,
             "timestamp": "2020-07-27_18:45:20",
             "duration": 7200,
-            "express": false
+            "express": false,
+            "ramp": 2
         },
         {
             "id": 8,
             "timestamp": "2020-07-27_06:45:20",
             "duration": 5040,
-            "express": false
+            "express": false,
+            "ramp": 1
         }
     ]
 }
