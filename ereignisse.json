@@ -1,0 +1,37 @@
+{
+    "ereignisse": [
+        {               
+            "typ": "add_ramp",
+            "timestamp": "2020-07-27_10:00:20"
+        },
+        {
+            "typ": "delete_ramp",
+            "timestamp": "2020-07-27_14:45:20"
+        },
+        {
+            "typ": "add_slot",
+            "timestamp": "2020-07-28_10:00:20",
+            "id": 6,
+            "timestamp_slot": "2020-07-27_14:30:20",
+            "duration": 5000,
+
+        },
+       {
+            "typ": "delete_slot",
+            "timestamp": "2020-07-28_10:00:20",
+            "id": 2,
+        },
+        {
+            "typ": "delay_slot",
+            "timestamp": "2020-07-27_06:45:20",
+            "delay": 8280,
+            "id": 5
+        },
+        {
+            "typ": "delay_slot",
+            "timestamp": "2020-07-27_12:45:20",
+            "delay": 10280,
+            "id": 4
+        }
+    ]
+}
