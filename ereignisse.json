@@ -13,13 +13,13 @@
             "timestamp": "2020-07-28_10:00:20",
             "id": 6,
             "timestamp_slot": "2020-07-27_14:30:20",
-            "duration": 5000,
+            "duration": 5000
 
         },
        {
             "typ": "delete_slot",
             "timestamp": "2020-07-28_10:00:20",
-            "id": 2,
+            "id": 2
         },
         {
             "typ": "delay_slot",
