@@ -29,8 +29,7 @@
             "id": 4,
             "timestamp": "2020-07-27_14:00:20",
             "duration": 2880,
-            "express": false,
-            "ramp": 0
+            "express": false
         },
         {
             "id": 5,
