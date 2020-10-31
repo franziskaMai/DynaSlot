@@ -1,7 +1,7 @@
 {
     "add_ramp": 
         [{               
-            "type": "add_ramp",
+            "type": "add_ramp"
         }],
     "delete_ramp":
         [{
