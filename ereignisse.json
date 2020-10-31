@@ -13,7 +13,7 @@
             "timestamp": "2020-07-28_10:00:20",
             "id": 6,
             "timestamp_slot": "2020-07-27_14:30:20",
-            "duration": 5000
+            "duration": 01:00
 
         }],
     "delete_slot":
@@ -25,19 +25,19 @@
        [{
             "timestamp": "2020-07-28_12:00:20",
             "timestamp_slot": "2020-07-27_14:30:20",
-            "duration": 5000,
+            "duration": 01:45,
             "ramp": 2
         }],
     "delay_slot":
     [
         {
             "timestamp": "2020-07-27_06:45:20",
-            "delay": 8280,
+            "delay": 02:30,
             "id": 5
         },
         {
             "timestamp": "2020-07-27_12:45:20",
-            "delay": 10280,
+            "delay": 03:00,
             "id": 4
         }
     ]
