@@ -1,16 +1,19 @@
 {
     "add_ramp": 
         [{               
-            "type": "add_ramp"
+            "type": "add_ramp",
+            "timestamp": "2020-07-27_10:00:20"
         }],
     "delete_ramp":
         [{
             "type": "delete_ramp",
+            "timestamp": "2020-07-27_14:45:20",
             "ramp": 2
         }],
     "add_slot":
         [{
             "type": "add_slot",
+            "timestamp": "2020-07-28_10:00:20",
             "id": 6,
             "timestamp_slot": "2020-07-27_14:30:20",
             "duration": 5000
@@ -19,17 +22,20 @@
     "delete_slot":
        [{
             "type": "delete_slot",
+            "timestamp": "2020-07-28_10:00:20",
             "id": 2
         }],
     "delay_slot":
     [
         {
             "type": "delay_slot",
+            "timestamp": "2020-07-27_06:45:20",
             "delay": 8280,
             "id": 5
         },
         {
             "type": "delay_slot",
+            "timestamp": "2020-07-27_12:45:20",
             "delay": 10280,
             "id": 4
         }
