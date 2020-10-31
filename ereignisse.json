@@ -18,8 +18,15 @@
         }],
     "delete_slot":
        [{
-            "timestamp": "2020-07-28_10:00:20",
+            "timestamp": "2020-07-28_14:00:20",
             "id": 2
+        }],
+    "maintainance":
+       [{
+            "timestamp": "2020-07-28_12:00:20",
+            "timestamp_slot": "2020-07-27_14:30:20",
+            "duration": 5000,
+            "ramp": 2
         }],
     "delay_slot":
     [
