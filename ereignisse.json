@@ -9,7 +9,7 @@
         [{
             "timestamp": "2020-07-27_14:45:20",
             "type": "delete_ramp",
-            "ramp": 2
+            "ramp": 0
         }],
     
     "add_slot":
