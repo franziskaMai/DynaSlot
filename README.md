@@ -8,6 +8,6 @@ Nach dem ersten Durchlauf kann auch über den Reiter Laufzeit die Option Neu sta
 
 Die Daten für das Programm werden aus diesem GitHub geladen und können nach der Ausführung des zweiten Befehls (!git clone https://github.com/franziskaMai/DynaSlot) im Notebook verändert werden. Dazu wählt man in auf der linken Seite des Notebooks den Order (Dateien) aus und öffnet in der neuen Ansicht dann den Ordner DynaSlot. In diesem liegen alle eingegangen Daten, welche durch doppelklick verändert werden können. 
 
-Um den gewählten Datensatz zu ändern, kann man in dem Dropdownmenü in Zelle fünf das gewünschte neue Datensatz wählen.
+Um den gewählten Datensatz zu ändern, kann man in dem Dropdownmenü in Zelle fünf den gewünschten neuen Datensatz wählen.
 
 
